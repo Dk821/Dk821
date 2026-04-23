@@ -1,75 +1,110 @@
-## Hi there 👋 I'm D K  
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-💻 Motivated Full Stack Developer passionate about building scalable and user-focused web applications.  
-🚀 Skilled in React, Python (Django/Flask), and database management.  
-🤖 Interested in AI-powered applications and modern web technologies.  
-🌱 Continuously learning and improving through real-world projects.  
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Dineshkumar N</strong>
+</h1>
 
----
+<h3>Full Stack Developer | React • Python • Generative AI</h3>
 
-## 🚀 About Me  
-- 🔭 Currently working on Full Stack & AI-based projects  
-- 💡 Strong interest in building responsive UI and backend systems  
-- 🤝 Open to collaboration on innovative web applications  
-- 📈 Focused on improving problem-solving and system design skills  
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
----
+  <p>
+    I'm a Full Stack Developer passionate about building scalable web applications and AI-powered solutions.  
+    I enjoy combining modern frontend technologies with robust backend systems to create real-world impactful products.
+  </p>
 
-## 🧑‍💻 Tech Stack  
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:dhineshkumar6353@gmail.com">
+      <img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge" />
+    </a>
+    <img src="https://img.shields.io/badge/💼_Open_to_Work-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤖_AI_Enthusiast-1e1e2e?style=for-the-badge" />
+  </p>
 
-### 💻 Languages  
-<img src="https://img.icons8.com/color/48/python--v1.png"/> 
-<img src="https://img.icons8.com/color/48/javascript--v1.png"/> 
-<img src="https://img.icons8.com/color/48/html-5--v1.png"/> 
-<img src="https://img.icons8.com/fluency/48/css3.png"/>  
+<h3>🌐 Connect with Me</h3>
 
-### ⚙️ Backend & Server  
-<img src="https://img.icons8.com/ios-filled/50/000000/django.png"/> 
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/flask.png"/> 
-<img src="https://img.icons8.com/color/48/api.png"/>  
+<p align="left">
+  <a href="https://github.com/Dk821">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
 
-### 🗄️ Database  
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/mongodb.png"/> 
-<img src="https://img.icons8.com/color/48/mysql-logo.png"/>  
+  <a href="https://linkedin.com/in/n-dineshkumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
-### 🎨 Frontend & Frameworks  
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/react-native.png"/> 
-<img src="https://img.icons8.com/color/48/bootstrap.png"/>  
+<img src="https://komarev.com/ghpvc/?username=Dk821&style=flat-square&color=blue" alt="Profile views"/>
+</div>
 
-### 🛠️ Tools & Software  
-<img src="https://img.icons8.com/color/48/git.png"/> 
-<img src="https://img.icons8.com/color/48/github.png"/> 
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
-<img src="https://img.icons8.com/color/48/ms-office.png"/>  
-
-### 🌐 Basic Networking  
-- DNS  
-- IP  
-- HTTP  
-
-### 💻 Operating Systems  
-- Windows  
-- Linux  
+<br clear="all" />
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dk821&show_icons=true&theme=tokyonight)  
+## 🛠️ Skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dk821&layout=compact&theme=tokyonight)  
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+<h3>📚 Frameworks</h3>
+
+<img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,bootstrap" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🗄️ Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+<h3>🧰 Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman" />
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
-## 🌟 Highlights  
-- 🔹 Experience in building AI-powered web applications  
-- 🔹 Strong understanding of full stack development  
-- 🔹 Focus on clean, responsive, and user-friendly design  
+## 🚀 Projects
+
+### 🔹 Creatix AI Content Automation Platform
+- Built AI-powered automation platform using React, FastAPI, and Gemini API  
+- Integrated workflows and automation for content generation  
+
+### 🔹 AI Travel Visionary
+- Developed AI-based travel planner with personalized itineraries  
+- Integrated real-time APIs and map services  
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/)  
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dk821&theme=dark&hide_border=true" />
+</div>
 
 ---
 
-⭐ *“Building scalable solutions with clean code and creative thinking.”*
+## 🎯 Currently
+
+- 🔍 Looking for Full Stack Developer / AI Engineer roles  
+- 📚 Learning advanced AI + system design  
+- ⚡ Building real-world AI applications  
