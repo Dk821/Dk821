@@ -1,110 +1,120 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<div align="center">
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Dineshkumar </strong>
-</h1>
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%"/>
 
-<h3>Full Stack Developer | React • Python • Generative AI</h3>
+<br/>
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Dineshkumar;AI+Engineer+%7C+Full+Stack+Developer;Building+LLM-powered+products;React+%E2%80%A2+Python+%E2%80%A2+Generative+AI" alt="Typing SVG" />
+</a>
 
-  <p>
-    I'm a Full Stack Developer passionate about building scalable web applications and AI-powered solutions.  
-    I enjoy combining modern frontend technologies with robust backend systems to create real-world impactful products.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:dhineshkumar6353@gmail.com">
-      <img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge" />
-    </a>
-    <img src="https://img.shields.io/badge/💼_Open_to_Work-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤖_AI_Enthusiast-1e1e2e?style=for-the-badge" />
-  </p>
-
-<h3>🌐 Connect with Me</h3>
-
-<p align="left">
-  <a href="https://github.com/Dk821">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/n-dineshkumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💼_Open_to_Work-2ea043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_AI_Engineer-6C63FF?style=for-the-badge" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Dk821&style=flat-square&color=blue" alt="Profile views"/>
+<p>
+  <a href="mailto:dhineshkumar6353@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/n-dineshkumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Dk821"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Dk821&style=flat-square&color=6C63FF" alt="Profile views"/>
+
 </div>
 
-<br clear="all" />
+<br/>
 
----
+## 👋 About Me
 
-## 🛠️ Skills
+I'm an **AI Engineer & Full Stack Developer** who builds end-to-end products — from LLM-powered backends to polished, responsive frontends. I like turning "can an AI do this?" into a working, deployed application. My pinned repos below show the work — this section is more about how I think and where I'm headed.
 
-<p align="center">
-<table>
+```python
+class Dineshkumar:
+    def __init__(self):
+        self.role = "AI Engineer | Full Stack Developer"
+        self.stack = ["Python", "React", "FastAPI", "Gemini API"]
+        self.focus = ["LLM applications", "AI agents", "Full-stack systems"]
+        self.currently_seeking = "Full Stack Developer / AI Engineer roles"
+
+    def say_hi(self):
+        print("Let's build something intelligent together 🚀")
+```
+
+<br/>
+
+## 🧠 Tech Stack
+
+<table align="center">
 <tr>
-<td width="50%" align="center">
-<h3>💻 Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-<h3>📚 Frameworks</h3>
-
-<img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,bootstrap" />
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-<h3>🗄️ Databases</h3>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-<h3>🧰 Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman" />
-</td>
+<td align="center" width="20%"><b>Languages</b><br/><img src="https://skillicons.dev/icons?i=python,js,html,css" /></td>
+<td align="center" width="20%"><b>AI / ML</b><br/><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /></td>
+<td align="center" width="20%"><b>Frameworks</b><br/><img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,bootstrap" /></td>
+<td align="center" width="20%"><b>Databases</b><br/><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></td>
+<td align="center" width="20%"><b>Tools</b><br/><img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,docker" /></td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge" />
 </p>
 
----
+<br/>
 
-## 🚀 Projects
+## 📈 What I'm Focused On
 
-### 🔹 Creatix AI Content Automation Platform
-- Built AI-powered automation platform using React, FastAPI, and Gemini API  
-- Integrated workflows and automation for content generation  
+```text
+🔹 Building production-grade LLM applications (RAG, AI agents, prompt pipelines)
+🔹 Strengthening system design fundamentals for scalable full-stack apps
+🔹 Speech & language AI — accent-aware, real-world speech-to-text systems
+🔹 Shipping fast: idea → working prototype → deployed product
+```
 
-### 🔹 AI Travel Visionary
-- Developed AI-based travel planner with personalized itineraries  
-- Integrated real-time APIs and map services  
+<br/>
 
----
-
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dk821&theme=dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dk821&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
----
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dk821&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dk821&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dk821&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dk821&theme=react-dark&hide_border=true" width="100%"/>
+</div>
+
+<br/>
 
 ## 🎯 Currently
 
-- 🔍 Looking for Full Stack Developer / AI Engineer roles  
-- 📚 Learning advanced AI + system design  
-- ⚡ Building real-world AI applications  
+- 🔍 Looking for **Full Stack Developer / AI Engineer** roles
+- 📚 Deepening skills in LLM applications, agents, and system design
+- ⚡ Shipping real-world AI-powered products
+- 🤝 Open to collaborating on AI & open-source projects
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's Connect
+
+<a href="mailto:dhineshkumar6353@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/n-dineshkumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Dk821"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<i>Thanks for stopping by — always happy to talk AI, code, or opportunities 🚀</i>
+
+</div>
